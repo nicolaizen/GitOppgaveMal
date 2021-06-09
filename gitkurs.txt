@@ -1,0 +1,13 @@
+https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
+
+På Windows:
+    last ned msysgit fra https://git-scm.com/download/win
+    Kjør gjennom installasjonen, velg "Run Git from the Windows Command Prompt" i steget om justering av PATH
+    Start Git Bash og se at kommandovindet ser fornuftig ut
+
+På Mac - med Homebrew (anbefalt) -> brew install git
+På Linux - bruk din pakkemanager - apt-get install git
+
+https://guides.github.com/
+
+
